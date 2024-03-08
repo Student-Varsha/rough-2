@@ -345,6 +345,13 @@ footer a:hover
    
 
     }
+
+     .lan{
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
+        grid-column-start: 1;
+        
+    }
     }
 
  
