@@ -321,24 +321,24 @@ footer a:hover
     
     body 
     {
-        grid-template-columns: 4fr;
+        grid-template-columns: 1fr;
         grid-template-rows: 200px 500px 400px 300px;
     }
     nav 
     {
     
-    grid-template-columns: 4fr  ;
+    grid-template-columns: 1fr  ;
     grid-template-rows: auto ;
     grid-column-start: 1;
     }
     .section1
     {
-     grid-template-columns: 4fr;
+     grid-template-columns: 1fr;
      grid-template-rows: auto ;
      grid-column-start: 1 ;
 
     }
-    font-language-override: {
+   footer {
         grid-template-columns: 1fr;
         grid-template-rows: auto ;
         grid-column-start: 1 ;
@@ -349,3 +349,9 @@ footer a:hover
 
  
  
+
+
+
+
+
+  
