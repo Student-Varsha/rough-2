@@ -352,6 +352,16 @@ footer a:hover
         grid-column-start: 1;
         
     }
+
+      .main
+{
+    
+     width: 200px;
+    
+    text-align: center;  
+    grid-column-start: 1;
+
+}
     }
 
  
